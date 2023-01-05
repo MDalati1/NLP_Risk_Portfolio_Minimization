@@ -1,2 +1,2 @@
-# NLP_Risk_Portfolio_Minimization
-Risk Portfolio Minimization model using Gurobi optimization 
+# Risk_Portfolio_Minimization
+Risk Portfolio Minimization model using Gurobi Non-Linear Programming(NLP)
