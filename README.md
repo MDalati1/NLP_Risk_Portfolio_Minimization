@@ -1,6 +1,6 @@
-# Risk_Portfolio_Minimization
+# Minimizing Risk
 
-Risk Portfolio Minimization model using Gurobi Non-Linear Programming(NLP) of 2 scenarios. 
+Risk Portfolio optimization model using Gurobi Non-Linear Programming(NLP) of 2 scenarios. 
 
 1a. Formulate an NLP to devise the optimal portfolio that minimizes the portfolio risk subject to non-negative return. 
 What are the optimal solution and value?
